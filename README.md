@@ -5,3 +5,5 @@ add merge test~
 
 Git stash test~
 
+git remote dev test
+
